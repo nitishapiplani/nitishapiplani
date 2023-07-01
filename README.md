@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitishapiplani" alt="nitishapiplani" /></a> </p>
 
-- 🔭 I’m currently working on [redstore](https://github.com/nitishapiplani/redstore)
+- 🔭 I’m currently working on [Carpool Site]
 
-- 🌱 I’m currently learning **Angular,MongoDB**
+- 🌱 I’m currently learning **MongoDb**
 
 - 👯 I’m looking to collaborate on **Neurosensor project**
 
 - 👨‍💻 All of my projects are available at [http://nitishaportfolio.unaux.com/](http://nitishaportfolio.unaux.com/)
 
-- 💬 Ask me about **Web devlopment**
+- 💬 Ask me about **Software Testing**
 
 - 📫 How to reach me **nitishapiplani1@gmail.com**
 
