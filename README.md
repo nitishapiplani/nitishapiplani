@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Nitisha Piplani</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software Quality Assurance Enginner from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitishapiplani&label=Profile%20views&color=0e75b6&style=flat" alt="nitishapiplani" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitishapiplani" alt="nitishapiplani" /></a> </p>
 
-- 🔭 I’m currently working on [Carpool Site]
+- 🔭 I’m currently working on [Edtech Site]
 
-- 🌱 I’m currently learning **MongoDb**
+- 🌱 I’m currently learning **Jenkins**
 
-- 👯 I’m looking to collaborate on **Neurosensor project**
+- 👯 I’m looking to collaborate For **Research Project**
 
 - 👨‍💻 All of my projects are available at [http://nitishaportfolio.unaux.com/](http://nitishaportfolio.unaux.com/)
 
