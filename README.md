@@ -5,17 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitishapiplani" alt="nitishapiplani" /></a> </p>
 
-- 🔭 I’m currently working on [Edtech Site]
+- 🔭 I’m currently working on Edtech Site
 
 - 🌱 I’m currently learning **Jenkins**
 
-- 👯 I’m looking to collaborate For **Research Project**
-
-- 👨‍💻 All of my projects are available at [http://nitishaportfolio.unaux.com/](http://nitishaportfolio.unaux.com/)
+- 👯 I’m looking to collaborate For **Developing Automation Framework**
 
 - 💬 Ask me about **Software Testing**
 
-- 📫 How to reach me **nitishapiplani1@gmail.com**
+- 📫 Reach me at **nitishapiplani1@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1qUkulsklInijHcZqLEGo4h9IUITIda0S/view?usp=sharing](https://drive.google.com/file/d/1qUkulsklInijHcZqLEGo4h9IUITIda0S/view?usp=sharing)
 <br>
